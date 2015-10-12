@@ -1,0 +1,12 @@
+{
+  "name": "hello395",
+  "version": "0.0.1",
+  "description": "This is a node.js cli application",
+  "main": "Hello395.js",
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ries Guthmann",
+  "license": "MIT",
+  "preferGlobal": true, "bin": { "hello395": "./bin/hello395" 
+}
